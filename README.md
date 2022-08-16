@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é @sarahmaudaczaika
+- 👀 Estou interessada em aprender programação!
+- 📫 Meu email de contato: @sarah.czaika@escola.pr.gov.br
+- 🌱 Estou aprendendo a programar recentemente a linguagem de scratch. 
